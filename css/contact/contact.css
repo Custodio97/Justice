@@ -80,5 +80,6 @@
 @media (max-width:960px) {
     .contatc .container_contact{
         grid-template-columns: 1fr;
+        gap: 20px 0;
     }
 }
