@@ -1,0 +1,24 @@
+/*Global*/
+@import "./global/reset.css";
+@import "./global/header.css";
+/*Home*/
+@import "./home/home.css";
+@import "./home/modal.css";
+
+/*About*/
+@import "./about/about.css";
+
+/*pratice*/
+@import "./pratice/pratice.css";
+
+/*team*/
+@import "./team/team.css";
+
+/*Contact*/
+@import "./contact/contact.css";
+
+/*ScrollTop*/
+@import "./scrollTop/scrollTop.css";
+
+/*Footer*/
+@import "./footer/footer.css";
